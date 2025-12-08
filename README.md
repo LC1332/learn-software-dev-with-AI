@@ -1,3 +1,7 @@
+# 跟着AI学软件工程
+
+李鲁鲁对于 CS146S的翻译和学习
+
 # Assignments for CS146S: The Modern Software Developer
 
 This is the home of the assignments for [CS146S: The Modern Software Developer](https://themodernsoftware.dev), taught at Stanford University fall 2025.
