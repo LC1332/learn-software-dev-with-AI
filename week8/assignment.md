@@ -3,6 +3,7 @@
 ## 演示日确认
 请访问此[表单](https://forms.gle/J3R3PSRqnFAJxhjG8)了解我们课程演示日的详细信息。
 
+
 ## 作业概述
 使用 3 种不同的技术栈构建相同的功能性 Web 应用程序。至少有一个版本必须使用 [`bolt.new`](https://bolt.new/)（一个 AI 应用生成平台）创建。至少有一个版本必须在前端或后端使用非 JavaScript 语言（例如 Django、Ruby on Rails）。
 
