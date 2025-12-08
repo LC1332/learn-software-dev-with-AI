@@ -2,6 +2,11 @@
 
 李鲁鲁对于 CS146S的翻译和学习
 
+# TODO List
+
+- [ ] 完成每一课的粗翻
+- [ ] 思考一下用什么环境来完成这节课的作业（如果不太想折腾本机环境的话）
+
 # Assignments for CS146S: The Modern Software Developer
 
 This is the home of the assignments for [CS146S: The Modern Software Developer](https://themodernsoftware.dev), taught at Stanford University fall 2025.
